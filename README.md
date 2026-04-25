@@ -37,6 +37,11 @@ If a Spotify account is accidentally emptied or a user migrates to a new one, Sp
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=flat&logo=spotify&logoColor=white)
 
+## Related in the AIOS Portfolio
+
+- **[AIOS](https://github.com/mikecutillo/aios)** — Host pattern of OAuth + restore; Next.js dashboard orchestrating 16+ household and business modules
+- **[AI Model Router](https://github.com/mikecutillo/ai-model-router)** — Kindred small-utility AIOS pattern; multi-provider LLM router with waterfall fallback
+
 ---
 
 Part of the AIOS portfolio. See the [profile README](https://github.com/mikecutillo) for the full system map.
